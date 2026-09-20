@@ -21,9 +21,16 @@ nav{
     height: 500px;
 }
 button{
+    background-color: #22C55E;
+    font-size: large;
     margin-top: 20px;
+    border-radius: 10px;
+}
+.header{
+    text-align: center;
 }
 .cards{
+    justify-content: center;
     display: flex;
     gap: 30px;
 }
@@ -33,4 +40,19 @@ button{
 .card-img{
     height: 150px;
     background-color: teal;
+}
+.about{
+    text-align: center;
+}
+.about-content{
+    display: flex;
+    gap: 20px;
+}
+.about-img{
+    height: 250px;
+    width: 300px;
+    background-color: rgb(150, 6, 52);
+}
+.about-text{
+    justify-content: center;
 }
