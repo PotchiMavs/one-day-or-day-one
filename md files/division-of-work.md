@@ -5,7 +5,7 @@ The final project is a group project. Copy this into your workspace
 that week. Every member of the group keeps the same file up to date, and each
 member submits the link in the Division of Work assignment.
 
-## Week of: (September 20, 2026)
+## Week 1: September 20, 2026
 
 | Member (name or GitHub handle) | What they did this week |
 | --- | --- |
