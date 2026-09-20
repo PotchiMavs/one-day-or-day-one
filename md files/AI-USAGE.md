@@ -1,52 +1,22 @@
 # AI usage
 
-This project was built with AI assistance. This file is the record of it. It is
-graded as the finals badge, and it is worth 100 points.
+### 2026-09-20 - Repo and hosting setup
 
-Start it in week 1 and keep it up as you go. The commit history of this file is
-part of the evidence: a file written all at once the night before the deadline
-looks exactly like what it is.
+- **Tool:** Claude (used as a step-by-step guide)
+- **What we asked for:** How to set up a GitHub repo and turn on GitHub Pages
+- **What it gave back:** A checklist of steps to follow (create repo, enable Pages, add collaborators)
+- **What we kept, what we changed, and why:** We did all the actual setup ourselves in GitHub's dashboard — this was just a walkthrough of settings we weren't familiar with yet
 
-## 1. How I used AI
+### 2026-09-20 - Matching our CSS to our design system
 
-At least six entries. One per real use. Every entry needs a commit link.
+- **Tool:** Claude
+- **What we asked for:** Confirming which of our design system's color codes to use where
+- **What it gave back:** Pointed us to the right hex value from our own design doc
+- **What we kept, what we changed, and why:** Applied it ourselves in our CSS
 
-### YYYY-MM-DD - short title
+### 2026-09-20 - Documentation structure
 
-- **Tool:**
-- **What I asked for:**
-- **What it gave back:**
-- **What I kept, what I changed, and why:**
-- **Commit:** https://github.com/YOUR-USERNAME/YOUR-REPO/commit/SHA
-
-## 2. Where the AI got it wrong
-
-Three cases. Be specific. If you write that the AI was never wrong, this section
-scores zero.
-
-### Case 1 - short title
-
-- **What it gave me:**
-- **What was wrong with it:**
-- **What I did instead:**
-- **Commit:** https://github.com/YOUR-USERNAME/YOUR-REPO/commit/SHA
-
-## 3. Who wrote what
-
-At least a fifth of this project is code you wrote yourself. Name it, and explain
-it in your own words.
-
-> Group projects: give each member their own heading below, and use your GitHub
-> handle as the heading. You are graded on your own section.
-
-### Written by me
-
-- **File:**
-- **Commit:**
-- **What it does and why it is built this way:**
-
-### The AI-written part I understand best
-
-- **File:**
-- **Commit:**
-- **What it does and why we kept it:**
+- **Tool:** Claude
+- **What we asked for:** Help figuring out what sections our README needed
+- **What it gave back:** A structure/outline based on the class requirements
+- **What we kept, what we changed, and why:** Filled in all the actual project details ourselves
