@@ -1,22 +1,25 @@
-# Final Project Template
+# One Day or Day One?
 
-A starter website for the finals project. It is a plain HTML, CSS, and
-JavaScript page that deploys to GitHub Pages.
+## Overview
+A simple fitness website for beginners who want to start exercising. It provides basic workout routines, beginner fitness info, and recommendations for supplements and gym equipment.
 
-## How to use it
+## How to view it
+- Live site: https://PotchiMavs.github.io/one-day-or-day-one/
+- Locally: clone the repo and open `index.html` in your browser.
 
-1. Click **Use this template** and create a new repository in your own account.
-   Set it to **public**.
-2. Clone your new repository and replace this content with your own site.
-3. Turn on GitHub Pages once: Settings then Pages, set the source to "GitHub
-   Actions". After that every push deploys automatically (a workflow is
-   included). Your site goes live at `https://YOUR-USERNAME.github.io/YOUR-REPO`.
-4. Put the repository link and your live site link in your workspace
-   `project/README.md`.
+## Pages and features
+- **Home** — intro hero section, and a row of workout guide cards (PPL, Upper/Lower, Full Body). In progress: About Us section.
+- **Supplements & Equipment** — not started yet.
+- **Recommended Products** — not started yet.
 
-## Files
+## Project structure
+- `index.html` — Home page
+- `style.css` — shared styles for all pages
+- `script.js` — JavaScript (not used yet)
 
-- `index.html` - the page.
-- `style.css` - the styles.
-- `script.js` - the JavaScript.
-- `.nojekyll` - tells GitHub Pages to serve the files as-is.
+
+## Known issues and next steps
+- About Us section and footer still need to be built on the Home page
+- Supplements & Equipment and Recommended Products pages haven't been started
+- No JavaScript interactivity added yet
+- Site not yet tested 
