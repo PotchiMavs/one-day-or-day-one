@@ -3,66 +3,82 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>My Final Project</title>
+  <title>One Day or Day One?</title>
+  <link href="https://fonts.googleapis.com/css2?family=Knewave&family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <header>
     <nav>
-      <p class="logo">Logo</p>
+      <p class="logo">D1 1D</p>
       <ul class="nav-links">
         <li><a href="index.html">Home</a></li>
-        <li><a href="#">Workouts</a></li>
+        <li><a href="index.html#workouts">Workouts</a></li>
         <li><a href="supplements.html">Supplements</a></li>
-        <li><a href="#">Contacts</a></li>
+        <li><a href="recommended.html">Recommended</a></li>
       </ul>
     </nav>
   </header>
 
   <main>
     <section class="hero">
-      <h1>Day One? or One Day?</h1>
-      <button>Get started</button>
+      <h1>Are you ready? Start your fitness journey.</h1>
+      <button id="start-btn">Get started</button>
     </section>
 
-    <section class="header">
-      <h2>Featured Workout</h2>
+    <section class="header" id="workouts">
+      <h2>Featured Workouts</h2>
     </section>
 
     <section class="cards">
-
       <div class="card">
-        <div class="card-img"></div>
-          <h3>PPL Workout</h3>
+        <div class="card-img" aria-hidden="true">🏋️</div>
+        <h3>Push Pull Legs</h3>
+        <p>A workout split that trains pushing, pulling, and leg muscles on separate days for balanced muscle growth.</p>
+        <details>
+          <summary>More details</summary>
+          <p>Day 1 is Push (chest, shoulders, triceps). Day 2 is Pull (back, biceps). Day 3 is Legs. Rest when you need to.</p>
+        </details>
       </div>
-
       <div class="card">
-        <div class="card-img"></div>
-          <h3>Upper Lower Workout</h3>
+        <div class="card-img" aria-hidden="true">𝄂𝄂—𝄂𝄂</div>
+        <h3>Upper Lower</h3>
+        <p>A routine that alternates upper-body and lower-body workouts, ideal for strength and recovery.</p>
+        <details>
+          <summary>More details</summary>
+          <p>Upper days train chest, back, shoulders, and arms. Lower days train legs and glutes. A simple week is Upper, Lower, rest, Upper, Lower.</p>
+        </details>
       </div>
-
       <div class="card">
-        <div class="card-img"></div>
-          <h3>Full Body Workout</h3>
+        <div class="card-img" aria-hidden="true">🏃</div>
+        <h3>Full Body</h3>
+        <p>A workout that trains the entire body in one session, perfect for beginners or limited training days.</p>
+        <details>
+          <summary>More details</summary>
+          <p>Train every major muscle in each session. Do it 3 days a week with a rest day in between.</p>
+        </details>
       </div>
     </section>
 
     <section class="about">
       <h2>About Us</h2>
       <div class="about-content">
-        <div class="about-img"></div>
-          <div class="about-text">
-            <p>This website is a beginner-friendly fitness website created to help people start their fitness journey. We provide simple workout guides, basic fitness information, and recommended products to make healthy living easier for everyone.</p>
-            <button>Learn More</button>
-          </div>
+        <div class="about-text">
+          <p>This website is a beginner-friendly fitness website created to help people start their fitness journey. We provide simple workout guides, basic fitness information, and recommended products to make healthy living easier for everyone.</p>
+          <a class="btn" href="supplements.html">Learn more</a>
+        </div>
       </div>
     </section>
-  
   </main>
 
-
   <footer>
-    <p>Built for the finals project.</p>
+    <p class="logo">D1 1D</p>
+    <ul class="footer-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="index.html#workouts">Workouts</a></li>
+      <li><a href="supplements.html">Supplements</a></li>
+      <li><a href="recommended.html">Recommended</a></li>
+    </ul>
   </footer>
 
   <script src="script.js"></script>
