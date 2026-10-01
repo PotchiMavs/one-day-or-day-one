@@ -15,7 +15,7 @@ A simple fitness website for beginners who want to start exercising. It provides
 ## Project structure
 - `index.html` — Home page
 - `style.css` — shared styles for all pages
-- `script.js` — JavaScript (not used yet)
+- `script.js` — JavaScript
 
 
 ## Known issues and next steps
