@@ -92,13 +92,13 @@ This file documents how our group used AI during the development of **One Day or
 
 * **File:** `index.html`
 * **Commit:** https://github.com/PotchiMavs/one-day-or-day-one/commit/4ec5bfe13c66882d9b5db98b1a87b632f10bafe9
-* **What it does:** I worked on the Home page structure and content. I organized the main sections of the website and made sure the navigation connected the Home page with the other pages.
+* **What it does:** I worked on the Home page structure and content. I organized the main sections of the website and made sure the navigation connected the home page with the other pages.
 
 ### Another part I wrote myself
 
 * **File:** `style.css`
 * **Commit:** https://github.com/PotchiMavs/one-day-or-day-one/commit/26906f17f5e4602c180969f831bc1235d446583a
-* **What it does:** I worked on the styling and layout of the website. I adjusted colors, spacing, sizing, and other CSS values so the design matched our Home page.
+* **What it does:** I worked on the styling and layout of the website. I adjusted colors, spacing, sizing, and other CSS values so the design matched our home page.
 
 ### AI-assisted code I understand
 
@@ -121,14 +121,14 @@ This file documents how our group used AI during the development of **One Day or
 
 * **File:** `supplements.html`
 * **Commit:** 
-* **What it does:** I worke on the expandable `<details>` and `<summary>` elements. These allow users to click "More details" and view additional information without needing a separate page.
+* **What it does:** I work on the expandable `<details>` and `<summary>` elements. These allow users to click "more details" and view additional information without needing a separate page.
 
 ### AI-assisted code I understand
 
 * **File:** `supplements.html` / `style.css`
 * **Commit:** 
 * **What AI helped with:** ChatGPT helped review the HTML structure and check how the page could work better on smaller screens.
-* **What I understand:** I understands how the HTML is organized into sections and cards and how elements such as `<details>` and `<summary>` work. Fel also understands how responsive CSS can change the card layout and spacing on smaller screens.
+* **What I understand:** I understands how the html is organized into sections and cards and how elements such as `<details>` and `<summary>` work. And also understands how responsive CSS can change the card layout and spacing on smaller screens.
 
 ---
 
@@ -138,17 +138,17 @@ This file documents how our group used AI during the development of **One Day or
 
 * **File:** `recommended.html`
 * **Commit:** https://github.com/PotchiMavs/one-day-or-day-one/commit/40cc382fc827a328bdb00457304e3406c33cbc51
-* **What it does:** I created and organized the Recommended Products page. It contains recommended supplements and equipment, each displayed using a card with a description and a "Buy here" link.
+* **What it does:** I created and organized the Recommended Products page. It contains recommended supplements and equipment, each displayed using a card with a description and a "buy here" link.
 
 ### Another part I wrote myself
 
 * **File:** `recommended.html`
 * **Commit:** https://github.com/PotchiMavs/one-day-or-day-one/commit/40cc382fc827a328bdb00457304e3406c33cbc51
-* **What it does:** I added and organized the external product links and "Buy here" buttons. The links use `target="_blank"` so the external page opens in a new tab.
+* **What it does:** I added and organized the external product links and "buy here" buttons. The links use `target="_blank"` so the external page opens in a new tab.
 
 ### AI-assisted code I understand
 
 * **File:** `recommended.html` / `style.css`
 * **Commit:** https://github.com/PotchiMavs/one-day-or-day-one/commit/40cc382fc827a328bdb00457304e3406c33cbc51
 * **What AI helped with:** ChatGPT helped review the product page structure, external links, and mobile layout.
-* **What I understand:** Understands how the product cards are structured in HTML, how `<a>` elements create links, and how `target="_blank"` opens a link in a new tab. Er also understands the purpose of `rel="noopener noreferrer"` and the responsive CSS changes used to improve the page on smaller screens.
+* **What I understand:** Understands how the product cards are structured in HTML, how `<a>` elements create links, and how `target="_blank"` opens a link in a new tab. And also understands the purpose of `rel="noopener noreferrer"` and the responsive CSS changes used to improve the page on smaller screens.
