@@ -91,10 +91,6 @@ button, .btn {
 }
 .card p { color: #6B7280; font-size: 0.9rem; }
 
-details { margin-top: 16px; }
-summary { cursor: pointer; font-weight: 600; }
-details p { margin: 8px 0 0; }
-
 .about { text-align: center; background: #F8FAFC; padding: 32px; }
 .about-content {
   display: flex;
