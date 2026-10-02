@@ -1,2 +1,9 @@
 // Your JavaScript goes here.
-console.log("Final project page loaded.");
+const startBtn = document.getElementById("start-btn");
+
+if (startBtn) {
+  startBtn.addEventListener("click", function () {
+    document.getElementById("workouts").scrollIntoView({ behavior: "smooth" });
+  });
+}
+
