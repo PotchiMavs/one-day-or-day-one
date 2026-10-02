@@ -109,46 +109,46 @@ This file documents how our group used AI during the development of **One Day or
 
 ---
 
-## https://github.com/felicitydelacruz — Supplements & Equipment
+## https://github.com/erichmusngi10 — Supplements & Equipment
 
 ### Code I wrote myself
 
 * **File:** `supplements.html`
-* **Commit:** https://github.com/PotchiMavs/one-day-or-day-one/commit/40cc382fc827a328bdb00457304e3406c33cbc51
+* **Commit:** 
 * **What it does:** I create and organized the Supplements & Equipment page. The page contains separate sections for basic supplements and gym equipment, with cards containing descriptions and additional information.
 
 ### Another part I wrote myself
 
 * **File:** `supplements.html`
-* **Commit:** https://github.com/PotchiMavs/one-day-or-day-one/commit/40cc382fc827a328bdb00457304e3406c33cbc51
+* **Commit:** 
 * **What it does:** I worke on the expandable `<details>` and `<summary>` elements. These allow users to click "More details" and view additional information without needing a separate page.
 
 ### AI-assisted code I understand
 
 * **File:** `supplements.html` / `style.css`
-* **Commit:** https://github.com/PotchiMavs/one-day-or-day-one/commit/40cc382fc827a328bdb00457304e3406c33cbc51
+* **Commit:** 
 * **What AI helped with:** ChatGPT helped review the HTML structure and check how the page could work better on smaller screens.
 * **What I understand:** I understands how the HTML is organized into sections and cards and how elements such as `<details>` and `<summary>` work. Fel also understands how responsive CSS can change the card layout and spacing on smaller screens.
 
 ---
 
-## https://github.com/erichmusngi10 — Recommended Products
+## https://github.com/felicitydelacruz — Recommended Products
 
 ### Code I wrote myself
 
 * **File:** `recommended.html`
-* **Commit:** 
+* **Commit:** https://github.com/PotchiMavs/one-day-or-day-one/commit/40cc382fc827a328bdb00457304e3406c33cbc51
 * **What it does:** I created and organized the Recommended Products page. It contains recommended supplements and equipment, each displayed using a card with a description and a "Buy here" link.
 
 ### Another part I wrote myself
 
 * **File:** `recommended.html`
-* **Commit:** 
+* **Commit:** https://github.com/PotchiMavs/one-day-or-day-one/commit/40cc382fc827a328bdb00457304e3406c33cbc51
 * **What it does:** I added and organized the external product links and "Buy here" buttons. The links use `target="_blank"` so the external page opens in a new tab.
 
 ### AI-assisted code I understand
 
 * **File:** `recommended.html` / `style.css`
-* **Commit:** **[ADD ER'S ACTUAL COMMIT LINK]**
+* **Commit:** https://github.com/PotchiMavs/one-day-or-day-one/commit/40cc382fc827a328bdb00457304e3406c33cbc51
 * **What AI helped with:** ChatGPT helped review the product page structure, external links, and mobile layout.
 * **What I understand:** Understands how the product cards are structured in HTML, how `<a>` elements create links, and how `target="_blank"` opens a link in a new tab. Er also understands the purpose of `rel="noopener noreferrer"` and the responsive CSS changes used to improve the page on smaller screens.
