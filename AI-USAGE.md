@@ -58,7 +58,7 @@ This file documents how our group used AI during the development of **One Day or
 
 # Section 2 — Where the AI Got It Wrong
 
-### Example 1 — CSS Was More Complicated Than Needed
+### CSS Was More Complicated Than Needed
 
 * **Tool:** Claude
 * **What AI gave us:** AI suggested a rewritten CSS version that used CSS variables and made broader changes to the stylesheet.
@@ -66,7 +66,7 @@ This file documents how our group used AI during the development of **One Day or
 * **What we did instead:** We kept most of our original CSS and simplified the suggested changes by using the existing structure, plain color values, and pixel values that we could understand and adjust ourselves.
 * **Commit:** https://github.com/PotchiMavs/one-day-or-day-one/commit/26906f17f5e4602c180969f831bc1235d446583a
 
-### Example 2 — AI Rewrote More of the Home Page Than Necessary
+### AI Rewrote More of the Home Page Than Necessary
 
 * **Tool:** Claude
 * **What AI gave us:** AI provided an updated version of the Home page and stylesheet while helping us fix the layout and make it more responsive.
@@ -74,7 +74,7 @@ This file documents how our group used AI during the development of **One Day or
 * **What we did instead:** We kept our existing HTML structure and only used the responsive and CSS changes that were relevant to the problems we were trying to solve. We adjusted the values ourselves to fit our design.
 * **Commit:** https://github.com/PotchiMavs/one-day-or-day-one/commit/4ec5bfe13c66882d9b5db98b1a87b632f10bafe9
 
-### Example 3 — AI Suggestions Did Not All Match Our Existing Design
+### AI Suggestions Did Not All Match Our Existing Design
 
 * **Tool:** ChatGPT
 * **What AI gave us:** During the review of our Recommended Products page and its mobile layout, AI suggested several structural and CSS changes for the cards, buttons, spacing, and links.
