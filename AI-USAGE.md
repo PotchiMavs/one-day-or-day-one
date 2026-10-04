@@ -114,7 +114,7 @@ This file documents how our group used AI during the development of **One Day or
 ### Code I wrote myself
 
 * **File:** `supplements.html`
-* **Commit:** 
+* **Commit:** https://github.com/PotchiMavs/one-day-or-day-one/commits?author=erichmusngi10
 * **What it does:** I create and organized the Supplements & Equipment page. The page contains separate sections for basic supplements and gym equipment, with cards containing descriptions and additional information.
 
 ### Another part I wrote myself
@@ -126,7 +126,7 @@ This file documents how our group used AI during the development of **One Day or
 ### AI-assisted code I understand
 
 * **File:** `supplements.html` / `style.css`
-* **Commit:** 
+* **Commit:** https://github.com/PotchiMavs/one-day-or-day-one/commits?author=erichmusngi10
 * **What AI helped with:** ChatGPT helped review the HTML structure and check how the page could work better on smaller screens.
 * **What I understand:** I understands how the html is organized into sections and cards and how elements such as `<details>` and `<summary>` work. And also understands how responsive CSS can change the card layout and spacing on smaller screens.
 
